@@ -1,1 +1,1 @@
-#This code for pairwise comparison is used on my youtube channel.
+#These codes are used in the tutorials available on my youtube channel.
